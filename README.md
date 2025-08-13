@@ -12,10 +12,10 @@ It was created using **Tableau Public** to deliver interactive analysis, clean v
 This project explores a comprehensive dataset on AI adoption, analyzing trends across different countries, industries, company sizes, and AI tools.
 It answers key analytical questions like:
 
-> 🌍 *Which countries are leading in AI adoption?*
-> 📈 *How do adoption rates vary across different industries and company sizes?*
-> 🏆 *What are the most popular AI tools and how are they being used?*
-> 👥 *How does user feedback correlate with adoption rates?*
+> 🌍 *Which countries are leading in AI adoption?*          
+> 📈 *How do adoption rates vary across different industries and company sizes?*          
+> 🏆 *What are the most popular AI tools and how are they being used?*          
+> 👥 *How does user feedback correlate with adoption rates?*          
 
 The dashboard was developed using **Tableau Desktop Public Edition**, employing calculated fields, filters, and multiple dynamic visuals to provide a holistic view of the data.
 
@@ -77,7 +77,7 @@ The dashboard was developed using **Tableau Desktop Public Edition**, employing 
 
 | File Name | Description |
 |---|---|
-| `ai_adoption_dataset.csv` | Cleaned dataset used for Tableau |
+| `ai_adoption_dataset.zip` | Dataset used for Tableau |
 | `AI Adoption Data Analytics.jpg` | Dashboard snapshot |
 | `AI Adoption Data Analytics.twbx` | Tableau packaged workbook |
 | `README.md` | Project documentation (this file) |
